@@ -5,3 +5,4 @@ This is a simple to-do list file
 4. ML fundamentals
 5. Vector Databases
 6. RAG
+7. Projects
