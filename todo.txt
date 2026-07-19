@@ -1,0 +1,7 @@
+This is a simple to-do list file
+1. Maths
+2. python
+3. Python libraries
+4. ML fundamentals
+5. Vector Databases
+6. RAG
